@@ -1,12 +1,12 @@
 <p style="font-size:14px" align="right">
-<a href="https://t.me/PemulungAirdropID" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+<a href="https://t.me/PemulungAirdropID" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/72949170/194228482-0f875615-e155-4b12-8716-8111addd6cba.jpg" width="30"/></a>
 </p>
 
 <p align="center">
   <img height="50" height="auto" src="https://user-images.githubusercontent.com/38981255/184088981-3f7376ae-7039-4915-98f5-16c3637ccea3.PNG">
 </p>
 
-# Cara Daftar Akun Testnet Inery
+# Register Inery Testnet
 
 - Buka Link : [https://testnet.inery.io/](https://testnet.inery.io/ "https://testnet.inery.io/")
 - Isi Data kalian Seperti di Bawah Ini.
