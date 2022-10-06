@@ -6,6 +6,23 @@
   <img height="50" height="auto" src="https://user-images.githubusercontent.com/38981255/184088981-3f7376ae-7039-4915-98f5-16c3637ccea3.PNG">
 </p>
 
+
+|  Komponen |  Persyaratan Minimum |
+| ------------ | ------------ |
+| CPU  | Intel Core i3 or i5  |
+| RAM | 4 GB DDR4 RAM  |
+| Penyimpanan  | 500 GB HDD |
+| koneksi | 100 Mbit/s port |
+
+
+
+|  Komponen |  Persyaratan Rekomendasi |
+| ------------ | ------------ |
+| CPU  | Intel Core i7-8700 Hexa-Core  |
+| RAM | DDR4 64 GB  |
+| Penyimpanan  | 2x1 TB NVMe SSD |
+| koneksi | Port 1 Gbit/dtk |
+
 # Tutorial Become a Master Node
 
 Dokumen Official :
