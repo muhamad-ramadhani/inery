@@ -114,7 +114,9 @@ screen -R master
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194225311-fee437f0-db09-4669-a9e5-1f826586cacf.jpg">
 </p>
 Jika Sudah Seperti Gambar di Atas, Artinya Sudah jalan dan Tunggu Sampai 1 - 2 Jam Untuk Mensinkronkan 
-**Ketik CTRL + A + D** Untuk jalan di Background dan Untuk Kembali lagi Ke Screen Gunakan Perintah `screen -Rd master`
+
+**Ketik CTRL + A + D** 
+Untuk jalan di Background dan Untuk Kembali lagi Ke Screen Gunakan Perintah `screen -R master`
 
 <p align="center">
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194225739-3da9e698-b097-4411-80d0-45c58c1fca5c.jpg">
