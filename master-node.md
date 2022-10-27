@@ -127,13 +127,13 @@ Untuk jalan di Background dan Untuk Kembali lagi Ke Screen Gunakan Perintah `scr
 
 Jika Sudah Seperti gambar di atas, Artilnya Sudah Selesai Sinkron, Silahkan Lanjut Next Step
 
-## 12. Start Node
+## 9. Start Node
 ### Lakukan Ini di TAB Baru
 ```
 cd ~/inery-node/inery.setup/master.node/
 ./start.sh
 ```
-## 13. Daftar dan setujui (Menghubungkan Wallet dengan Dasboard Akun)
+## 10. Daftar dan setujui (Menghubungkan Wallet dengan Dasboard Akun)
 
 ### Lakukan Ini Masih di TAB Baru
 
