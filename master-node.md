@@ -75,6 +75,7 @@ cd; source .bashrc; cd -
 ## 6. Become a Master Node
 
 ## 7. Buka Config Kalian Lalu Edit, Perintahnya : 
+buka di tab baru
 ```
 cd inery-node/inery.setup
 ```
@@ -100,6 +101,8 @@ Simpan (ctrl+x), Ketik "Y" dan keluar (enter)
 <p align="center">
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/38981255/184290968-0dd5773f-6c08-4a5d-a5a2-11c4db67678b.PNG">
 </p>
+
+buka tab baru lagi
 
 ```
 cd inery-node/inery.setup
