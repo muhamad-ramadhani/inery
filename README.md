@@ -42,3 +42,8 @@ https://github.com/muhamad-ramadhani/inery-node/blob/main/master-node.md
 # 3. Task 2
 
 https://github.com/muhamad-ramadhani/inery/blob/main/task2.md
+
+
+# 4. Task 3
+
+https://github.com/muhamad-ramadhani/inery/blob/main/task3.md
