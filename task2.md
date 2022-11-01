@@ -25,7 +25,7 @@ Masukan password dari file.txt file (YTTA kalau udah garap task 1)
 
 ## 2. Generate file token.abi dan token.wasm
 ```
-line get code inery.token -c token.wasm -a token.abi --wasm
+cline get code inery.token -c token.wasm -a token.abi --wasm
 ```
 
 ## 3. Set Wasm
