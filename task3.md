@@ -169,7 +169,7 @@ cline push action Your-account update '[ 1,  "My first Record Modified"]' -p You
 - Destroy
 
 ```
-cline push action Your-name-account destroy [1] -p Your-name-account --json
+cline push action Your-account destroy [1] -p Your-account --json
 ```
 
 ![image](https://user-images.githubusercontent.com/72949170/199280830-0818ee54-8614-4042-b003-b5da5868f03c.png)
