@@ -39,4 +39,6 @@ https://github.com/muhamad-ramadhani/inery-node/blob/main/register.md
 
 https://github.com/muhamad-ramadhani/inery-node/blob/main/master-node.md
 
+# 3. Task 2
 
+https://github.com/muhamad-ramadhani/inery/blob/main/task2.md
