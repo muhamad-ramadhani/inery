@@ -108,7 +108,7 @@ buka tab baru lagi
 cd inery-node/inery.setup
 ```
 ```
-screen -R master
+screen -S inery
 ```
 ```
 ./ine.py --master
